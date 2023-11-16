@@ -1670,10 +1670,6 @@ video {
   content: var(--tw-content);
   top: 50%;
 }
-.before\:top-24::before {
-  content: var(--tw-content);
-  top: 6rem;
-}
 .before\:m-auto::before {
   content: var(--tw-content);
   margin: auto;
@@ -2258,4 +2254,3 @@ video {
     }
   }
 }
-/*# sourceMappingURL=sourcemaps/main.css.map */
