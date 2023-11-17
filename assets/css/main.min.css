@@ -2070,10 +2070,6 @@ video {
     gap: 1.5rem;
   }
 
-  .md\:gap-y-0 {
-    row-gap: 0px;
-  }
-
   .md\:px-8 {
     padding-left: 2rem;
     padding-right: 2rem;
@@ -2159,6 +2155,10 @@ video {
 
   .lg\:gap-12 {
     gap: 3rem;
+  }
+
+  .lg\:gap-y-0 {
+    row-gap: 0px;
   }
 
   .lg\:bg-transparent {
