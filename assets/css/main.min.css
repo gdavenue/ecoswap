@@ -2039,10 +2039,6 @@ video {
     display: block;
   }
 
-  .md\:h-\[340px\] {
-    height: 340px;
-  }
-
   .md\:w-\[509px\] {
     width: 509px;
   }
@@ -2208,6 +2204,10 @@ video {
 
   .xl\:mb-0 {
     margin-bottom: 0px;
+  }
+
+  .xl\:h-\[340px\] {
+    height: 340px;
   }
 }
 @media (orientation: portrait) {
