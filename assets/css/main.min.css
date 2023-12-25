@@ -1998,6 +1998,10 @@ video {
 }
 @media (min-width: 640px) {
 
+  .sm\:block {
+    display: block;
+  }
+
   .sm\:w-60 {
     width: 15rem;
   }
