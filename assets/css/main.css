@@ -2141,10 +2141,6 @@ video {
     min-width: 195px;
   }
 
-  .lg\:max-w-\[195px\] {
-    max-width: 195px;
-  }
-
   .lg\:max-w-full {
     max-width: 100%;
   }
